@@ -1,17 +1,17 @@
-# 👋 Hi, I'm Tushar Gupta!
+# 👋 Hi, I'm Tushar Chand Gupta!
 
-🎓 2nd Year | Electronics & Communication Engineering  
+🎓 3rd Year | Electronics & Communication Engineering  
 🏫 Institute of Engineering & Technology, Bundelkhand University, Jhansi  
 💡 Passionate about Embedded Systems, IoT, PCB Design, and AI-based Hardware Innovations  
 
 ---
 
 ### 🛠️ Tech Stack
-- 💻 **Languages:** C, C++, Python, Java  
+- 💻 **Languages:** C, C++, Python, Embedded C  
 - ⚡ **Embedded Systems & IoT:** Arduino, ESP32, STM32, Proteus, Keil µVision, MPLAB X IDE, ThingsBoard, Google Cloud  
 - 🔧 **Hardware Skills:** PCB Design, Circuit Design, Sensor Integration, Embedded Prototyping, LoRa Communication  
 - ☁️ **Cloud & APIs:** Firebase, Google Cloud IoT, Social Media API Integration  
-- 🧠 **Interests:** Smart Devices, Renewable Energy Systems, Real-Time Monitoring & Automation  
+- 🧠 **Interests:** Smart Devices,EVs,  Renewable Energy Systems,IoT, Real-Time Monitoring & Automation  
 
 ---
 
@@ -62,11 +62,17 @@ Automated farming simulation using soil moisture, DHT11, and water pump control.
 ![GitHub](https://img.shields.io/badge/Open--Source-Lover-black?logo=github)
 
 ---
+📫 Connect with Me
 
-### 📫 Connect with Me
-📧 **tusharchandgupta15@gmail.com**  
-💼 [LinkedIn](https://linkedin.com/in/tusharchandgupta15)  
-🌐 [GitHub Portfolio](https://github.com/Tusharchandgupta?tab=repositories)
+📧 Email: tusharchandgupta15@gmail.com
+
+💼 LinkedIn: linkedin.com/in/tusharchandgupta
+
+🌐 GitHub Portfolio: github.com/Tusharchandgupta
+
+💬 Telegram: t.me/Tusharchandgupta
+
+📱 WhatsApp: wa.me/+918005310148
 
 ---
 
